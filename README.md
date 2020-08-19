@@ -1,0 +1,2 @@
+<h1>Melanoma Classifer</h1>
+<p>This project was created to put what I learned about CNN, transfer learning and TF/Keras into practice</p>
